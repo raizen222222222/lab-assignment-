@@ -15,4 +15,6 @@ This is a simple one-page portfolio website built using semantic HTML tags.
 3. Fill and test the contact form (non-functional in this HTML-only version).
 
 ---
-Author: Student Name
+Author: Aryan yadav
+
+<img width="854" height="1089" alt="Image" src="https://github.com/user-attachments/assets/84579450-e8a8-4fd6-8b77-e1ce5827ffdc" />
