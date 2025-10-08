@@ -18,3 +18,5 @@ This is Aryan's Lab Assignment 2 project for 1st Semester.
 - Hover effects on projects and buttons
 
 Author: Aryan (B.Tech CSE - 1st Semester)
+
+<img width="1852" height="1081" alt="Image" src="https://github.com/user-attachments/assets/718c3101-da0b-49ec-a9b1-0ad8b426bda4" />
